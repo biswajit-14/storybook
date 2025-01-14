@@ -27,7 +27,7 @@ export default function Home() {
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <Button
-            label="Button CTA"
+            label="Button"
             leftIcon={Circle}
             rightIcon={Circle}
           />
