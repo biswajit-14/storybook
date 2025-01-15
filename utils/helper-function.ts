@@ -20,6 +20,6 @@ export const getStateClasses = (variant: string) => {
         case 'disabled':
             return 'bg-[#F2F4F7] text-black';
         default:
-            return 'bg-[#7F56D9] text-white';
+            return 'bg-primary text-white';
     }
 };

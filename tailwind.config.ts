@@ -23,15 +23,15 @@ const config = {
 				border: "hsl(var(--border))",
 				input: "hsl(var(--input))",
 				ring: "hsl(var(--ring))",
-				background: "hsl(var(--background))",
-				foreground: "hsl(var(--foreground))",
+				background: "yellow",
+				foreground: "crimson",
 				primary: {
 					DEFAULT: '#7F56D9',
-					foreground: '#FFFFFF'
+					// foreground: '#FFFFFF'
 				},
 				secondary: {
 					DEFAULT: '#000000',
-					foreground: '#FFFFFF'
+					// foreground: '#FFFFFF'
 				},
 				destructive: {
 					DEFAULT: "hsl(var(--destructive))",
