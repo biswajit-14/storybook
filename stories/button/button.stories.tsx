@@ -153,7 +153,7 @@ type Story = StoryObj<typeof Button>;
 
 export const Default: Story = {
     args: {
-        label: 'Submit Button',
+        label: 'Submit',
         variant: 'default',
         leftIcon: Circle,
         rightIcon: Circle,
